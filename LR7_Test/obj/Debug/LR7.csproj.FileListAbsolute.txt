@@ -1,0 +1,10 @@
+C:\Users\chief\Desktop\LR7\LR7_Test\obj\Debug\LR7.csprojAssemblyReference.cache
+C:\Users\chief\Desktop\LR7\LR7_Test\obj\Debug\LR7.fMain.resources
+C:\Users\chief\Desktop\LR7\LR7_Test\obj\Debug\LR7_Test.Properties.Resources.resources
+C:\Users\chief\Desktop\LR7\LR7_Test\obj\Debug\LR7.csproj.GenerateResource.cache
+C:\Users\chief\Desktop\LR7\LR7_Test\obj\Debug\LR7.csproj.CoreCompileInputs.cache
+C:\Users\chief\Desktop\LR7\LR7_Test\obj\Debug\LR7_Test.exe
+C:\Users\chief\Desktop\LR7\LR7_Test\obj\Debug\LR7_Test.pdb
+C:\Users\chief\Desktop\LR7\LR7_Test\bin\Debug\LR7_Test.exe.config
+C:\Users\chief\Desktop\LR7\LR7_Test\bin\Debug\LR7_Test.exe
+C:\Users\chief\Desktop\LR7\LR7_Test\bin\Debug\LR7_Test.pdb
